@@ -1,0 +1,11 @@
+/* 全局样式表 */
+html,body,#app {
+    background: url(../img/star3.jpg) no-repeat transparent;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+@font-face {
+    font-family: 'firefly';
+    src: url(ZCOOLKuaiLe-Regular.ttf);
+}
