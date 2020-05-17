@@ -9,8 +9,6 @@ import 'element-ui/lib/theme-chalk/index.css'
 // 全局样式
 import './assets/css/global.css'
 
-import animated from 'animate.css'
-Vue.use(animated) 
 
  
 Vue.config.productionTip = false
